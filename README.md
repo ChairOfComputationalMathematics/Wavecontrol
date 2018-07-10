@@ -2,9 +2,9 @@
 Wave control is a Matlab GUI to plot boundary controls and stabilized solutions for one and two dimensional wave equations. Several numerical methods are programmed to find the control: finite differences, finite elements, mixed finite elements, etc. Each method is described in the manual, with scientific references, and programmed in a specific Matlab function. All the codes are free to be consulted, used and modified. 
 
 You will find here: 
-a) guide6.zip     -- A compressed file with the different functions required to run the Matlab code 
-b) manual2008.pdf -- The manual in pdf.
-c) Some screenshots of the software.
+1) guide6.zip     -- A compressed file with the different functions required to run the Matlab code 
+2) manual2008.pdf -- The manual in pdf.
+3) Some screenshots of the software.
 Please, download the manual to have an idea of the main features of the code before using it. 
 
 If you want to run the code, take into account that a (not very) recent version of Matlab (2010 or later) 
