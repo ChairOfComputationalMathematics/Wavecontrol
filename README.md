@@ -7,7 +7,7 @@ You will find here:
 3) Some screenshots of the software.
 Please, download the manual to have an idea of the main features of the code before using it. 
 
-If you want to run the code, take into account that a (not very) recent version of Matlab (2010 or later) 
+How to run the code. Take into account that a (not very) recent version of Matlab (2010 or later) 
 should be installed in your computer. Follow the instructions:
 1) Unzip the file in a new forder in your PC, for example ../wavecontrol
 2) You will find several matlab functions and a main matlab code: mavecontrol.m. 
