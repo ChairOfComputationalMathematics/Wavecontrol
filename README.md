@@ -3,7 +3,8 @@ Wave control is a Matlab GUI to plot boundary controls and stabilized solutions 
 
 You will find here: 
 a) guide6.zip     -- A compressed file with the different functions required to run the Matlab code 
-b) manual2008.pdf -- The manual in pdf. 
+b) manual2008.pdf -- The manual in pdf.
+c) Some screenshots of the software.
 Please, download the manual to have an idea of the main features of the code before using it. 
 
 If you want to run the code, take into account that a (not very) recent version of Matlab (2010 or later) 
